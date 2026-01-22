@@ -1,0 +1,6 @@
+If you see errors like:
+- "numpy.dtype size changed, may indicate binary incompatibility"
+your base environment has mismatched compiled binaries (NumPy/Pandas/SciPy).
+
+This notebook is SHAP-optional and runs without SHAP.
+If pandas import fails, reinstall numpy+pandas consistently and restart kernel.
