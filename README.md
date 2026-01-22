@@ -8,4 +8,3 @@
 
 ## Notes
 - SHAP is optional; notebook runs without SHAP using coefficients + permutation importance.
-- Full explanation: `docs/Telco_Churn_Project_Explanation_v3.docx`
